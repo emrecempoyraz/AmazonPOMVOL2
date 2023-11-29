@@ -1,0 +1,1 @@
+{"uuid":"c1dd8f31-481a-4753-98c8-9f6cb940dccd","name":"AmazonPOMDesignVol2","children":["89e38273-aebe-438a-b756-5648cfab2505"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1701298260367,"stop":1701298268356}],"afters":[],"start":1701298260346,"stop":1701298277865}
